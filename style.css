@@ -1,1 +1,11 @@
-<p style="color: red; font-size: 18px;">Este é um parágrafo estilizado inline.</p>
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+h1 {
+    color: blue;
+}
+p {
+    font-size: 16px;
+}
